@@ -1,5 +1,4 @@
-#Made by Kena 
-#the plinko project
+#PLINKO WITH SCORES BY ASHRITH
 
 
 
